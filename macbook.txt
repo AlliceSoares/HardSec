@@ -1,0 +1,3 @@
+Forçar encerramento > Option+Command+Esc
+Mouse USB funciona normalmente no mac
+arquivos .pdf são abertos normalmente no mac
